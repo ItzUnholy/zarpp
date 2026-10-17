@@ -1,0 +1,14 @@
+[
+    {
+        "id": "6ad403e7db8b2",
+        "nome": "Roger",
+        "cpf": "24163999850",
+        "email": "roger@gmail.com",
+        "senha": "123456",
+        "veiculo": "TITAN 150",
+        "placa": "ABC-222",
+        "cnh": "78979446544",
+        "status": "Aprovado",
+        "data_cadastro": "2026-10-17 20:25:27"
+    }
+]

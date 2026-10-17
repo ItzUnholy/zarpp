@@ -1,0 +1,16 @@
+[
+    {
+        "id": "6ad40357b3501",
+        "origem": "Avenida Maur\u00edcio Galli - Araraquara",
+        "destino": "\u00c1gua Vermelha, S\u00e3o Carlos, S\u00e3o Paulo, Regi\u00e3o Sudeste, Brasil",
+        "categoria": "moto",
+        "distancia": 46.9,
+        "valorTotal": 72.35,
+        "latOrigem": -21.765,
+        "lngOrigem": -48.175,
+        "latDestino": -21.8985118,
+        "lngDestino": -47.8503572,
+        "status": "ACEITA",
+        "data": "20:23:03"
+    }
+]
